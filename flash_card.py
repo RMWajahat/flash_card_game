@@ -5,7 +5,7 @@ import random
 import sys
 
 
-data = pd.read_csv("testt.csv")
+data = pd.read_csv("language_words.csv")
 
 
 print("""\nChoose from following language models:
